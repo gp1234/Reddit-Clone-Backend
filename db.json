@@ -1,0 +1,40 @@
+{
+    
+    "reddits": [
+        {
+            "id": "1",
+            "title" : "I’m Bill Gates, co-chair of the Bill & Melinda Gates Foundation. Ask Me Anything",
+            "text" : "I’m excited to be back for my seventh AMA. I’ve learned a lot from the Reddit community over the past year (check out this fascinating thread on robotics research), and I can’t wait to answer your questions.",
+            "userId" : "1"
+        },
+        {
+            "id": "2",
+            "title" : "I’m Bill Gates, co-chair of the Bill & Melinda Gates Foundation. Ask Me Anything",
+            "text" : "I’m excited to be back for my seventh AMA. I’ve learned a lot from the Reddit community over the past year (check out this fascinating thread on robotics research), and I can’t wait to answer your questions.",
+            "userId" : "2"
+        },
+        {
+            "id": "3",
+            "title" : "TIFU by telling my girlfriend I knew she cheated on me",
+            "text" : "So, flashback to undergrad, things are good and I just started dating this beautiful girl that I had met in class. I was enamored with her, shocked that I loved her so fast, and amazed that she even wanted to date me. The first months are amazing, we can't keep our hands off each other and never seem to be sick of the others company.",
+            "userId" : "2"
+        }
+    ],
+    "users" : [
+        {
+            "id":"1",
+            "name": "Bill",
+            "age": 70
+        },
+        {
+            "id":"2",
+            "name": "Melinda",
+            "age": 40
+        },
+        {
+            "id":"3",
+            "name": "Juan",
+            "age": 22
+        }
+    ]
+}
